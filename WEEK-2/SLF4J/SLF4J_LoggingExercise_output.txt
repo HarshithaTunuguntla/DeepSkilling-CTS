@@ -1,0 +1,6 @@
+INFO  SLF4JLoggingExercise - Application started.
+ERROR SLF4JLoggingExercise - Error occurred: Division by zero!
+java.lang.ArithmeticException: / by zero
+    at SLF4JLoggingExercise.main(SLF4JLoggingExercise.java:8)
+WARN  SLF4JLoggingExercise - This is a warning message.
+INFO  SLF4JLoggingExercise - Application finished.

@@ -1,0 +1,5 @@
+> Task :test
+
+JUnit5 setup is working fine!
+BUILD SUCCESSFUL in 1s
+1 test passed

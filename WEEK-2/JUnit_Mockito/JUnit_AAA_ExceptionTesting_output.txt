@@ -1,0 +1,6 @@
+> Task :test
+
+Test AAA style passed.
+Divide by zero exception caught as expected.
+BUILD SUCCESSFUL in 1s
+2 tests passed

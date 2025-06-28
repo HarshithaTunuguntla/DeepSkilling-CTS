@@ -1,0 +1,16 @@
+SQL> BEGIN
+  2    FOR rec IN (...) LOOP
+  3      IF (...) THEN
+  4        UPDATE ...
+  5      END IF;
+  6    END LOOP;
+  7    COMMIT;
+  8  END;
+  9  /
+
+PL/SQL procedure successfully completed.
+
+1 row updated.
+1 row updated.
+
+SQL>

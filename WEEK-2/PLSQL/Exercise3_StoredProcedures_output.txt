@@ -1,0 +1,10 @@
+SQL> BEGIN
+  2    ProcessMonthlyInterest;
+  3  END;
+  4  /
+
+PL/SQL procedure successfully completed.
+
+2 rows updated.
+
+SQL>

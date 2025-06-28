@@ -1,0 +1,5 @@
+> Task :test
+
+Mockito mock and stub test passed.
+BUILD SUCCESSFUL in 1s
+1 test passed

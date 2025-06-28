@@ -1,0 +1,5 @@
+> Task :test
+
+Mockito verify interactions test passed.
+BUILD SUCCESSFUL in 1s
+1 test passed
